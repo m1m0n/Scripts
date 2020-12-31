@@ -48,4 +48,4 @@ if __name__ == "__main__":
 		url = sys.argv[1]
 		download(extract_files(url)[0],extract_files(url)[1])
 	except:
-		print("Usage : ./lazy_driver.py <url>")
+		print("Usage : python3 lazy_driver.py <Drive Url>")
