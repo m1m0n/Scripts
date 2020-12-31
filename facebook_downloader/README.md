@@ -2,8 +2,8 @@ Facebook Downloader for downloading videos from facebook.
 
 # Getting Started
 ```
-$ git clone https://github.com/m1m0n/facebook_downloader.git
-$ cd facebook_downloader/
+$ git clone https://github.com/m1m0n/Scripts.git
+$ cd Scripts/facebook_downloader/
 $ chmod +x fb_downloader.sh
 ```
 
