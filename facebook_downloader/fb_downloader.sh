@@ -2,7 +2,7 @@
 
 #given url must be in this form: https://www.facebook.com/SheikhMinshawi/videos/208459680399662
 display_usage() {  
-	echo -e "Usage: ./fb_downloader.sh <Url: https://www.facebook.com/USER/videos/ID>"" 
+	echo -e "Usage: ./fb_downloader.sh <Url: https://www.facebook.com/USER/videos/ID>"
 	} 
 	if [  $# -ne 1 ] 
 	then 
