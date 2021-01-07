@@ -10,4 +10,4 @@ $ chmod +x runc.sh
 `Usage: ./runc.sh <File.c>`
 
 # Example
-[Example-1](https://github.com/m1m0n/Scripts/blob/main/run_C/images/Ex_1.png?raw=true)
+![Example-1](https://github.com/m1m0n/Scripts/blob/main/run_C/images/Ex_1.png?raw=true)
