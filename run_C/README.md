@@ -8,3 +8,6 @@ $ chmod +x runc.sh
 
 # Usage
 `Usage: ./runc.sh <File.c>`
+
+# Example
+[Example-1](https://github.com/m1m0n/Scripts/run_C/blob/master/ex.png?raw=true)
