@@ -8,7 +8,7 @@ $ cd Scripts/lazy_driver/
 ```
 # Install requirements
 ```bash
-$ pip3 install requirement.txt
+$ pip3 install -r requirement.txt
 ```
 
 # Usage
